@@ -154,10 +154,10 @@ We're waiting on some legal advice re: data protection, so for now, we have to r
   * In files, it won't be dynamic. You would have to hit "refresh" every so often to see if a student has made changes and saved them. If you both edit the same file, there's a potential for conflict, but the system will warn you if that happens ("this file has changed on disk!"). We're doing some experiments with a dynamic version... Also- note that if you open files using a terminal-based editor (such as vim/emacs) from within your consoles, then you would be able to share dynamically.
 
 
-### IPython Notebook is on paid accounts only
+### Jupyter Notebook is on paid accounts only
 
 
-Whilst we support the basic IPython console for all accounts, the "notebook" UI, which is particularly popular in scientific fields, is currently a paid-only feature.  But [get in touch](mailto:support@pythonanywhere.com) if you need it for a class, and maybe we can work something out!
+Whilst we support the basic Jupyter console for all accounts, the "notebook" UI, which is particularly popular in scientific fields, is currently a paid-only feature.  But [get in touch](mailto:support@pythonanywhere.com) if you need it for a class, and maybe we can work something out!
 
 
 # Contact us, we want to help!
